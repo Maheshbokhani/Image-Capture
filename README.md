@@ -24,7 +24,8 @@
       export default class App extends React.Component {
           constructor() {
               super()
-              this.state = { imageSource: { uri:                       'https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/No_image_available_400_x_600.svg/2000px-   No_image_available_400_x_600.svg.png' },
+              this.state = { 
+              imageSource: { uri:                       'https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/No_image_available_400_x_600.svg/2000px-   No_image_available_400_x_600.svg.png' },
                   }
               }
 
@@ -102,5 +103,20 @@
                   justifyContent: 'center'
               },
           })
+
+
+* Install image picker that take a images external storage
+
+         $ npm install --save react-native-image-picker
+         $ react-native link react-native-image-picker
+
+
+* After successfull setup after run application in your device
+
+
+
+# Outputs: 
+
+![](https://firebasestorage.googleapis.com/v0/b/imagestore-b2432.appspot.com/o/Screenshot_2019-03-01-18-51-59.png?alt=media&token=2fae88cf-8dff-4caa-9e03-5783d1462564) ![](https://firebasestorage.googleapis.com/v0/b/imagestore-b2432.appspot.com/o/Screenshot_2019-03-01-18-52-03.png?alt=media&token=e553af92-82e7-4b5f-9e5e-53468367e423)  ![](https://firebasestorage.googleapis.com/v0/b/imagestore-b2432.appspot.com/o/Screenshot_2019-03-01-18-52-53.png?alt=media&token=8011fff1-89d2-41fc-baa3-fd581c486afd)
 
 
