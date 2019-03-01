@@ -1,2 +1,3 @@
 # Image-Capture
-set a profile or any upload image in use for image capture
+
+![](https://aboutreact.com/wp-content/uploads/2018/07/react_native_camera-1.png)
