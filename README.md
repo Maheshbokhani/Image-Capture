@@ -24,9 +24,7 @@
       export default class App extends React.Component {
           constructor() {
               super()
-              this.state = {
-      
-      imageSource: { uri:                             'https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/No_image_available_400_x_600.svg/2000px-   No_image_available_400_x_600.svg.png' },
+              this.state = { imageSource: { uri:                       'https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/No_image_available_400_x_600.svg/2000px-   No_image_available_400_x_600.svg.png' },
                   }
               }
 
