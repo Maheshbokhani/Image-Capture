@@ -11,8 +11,8 @@
    
 * Install image picker that take a images external storage
 
-         $ npm install --save react-native-image-picker
-         $ react-native link react-native-image-picker
+       $ npm install --save react-native-image-picker
+       $ react-native link react-native-image-picker
       
 * Make changes for App.js file
 
