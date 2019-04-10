@@ -9,10 +9,10 @@
       $ react-native init projectname
    
    
-* After successfull create project to run application
+* Install image picker that take a images external storage
 
-      $ react-native run-android
-      $ react-native run-ios
+         $ npm install --save react-native-image-picker
+         $ react-native link react-native-image-picker
       
 * Make changes for App.js file
 
@@ -105,13 +105,13 @@
           })
 
 
-* Install image picker that take a images external storage
 
-         $ npm install --save react-native-image-picker
-         $ react-native link react-native-image-picker
 
 
 * After successfull setup after run application in your device
+
+         $ react-native run-android
+         $ react-native run-ios
 
 
 
