@@ -16,6 +16,10 @@
       
 * Make changes for App.js file
 
+![](https://raw.githubusercontent.com/Maheshbokhani/Image-Capture/master/App.js)
+
+
+
 
       import React from 'react'
       import { View, Image, StyleSheet, TouchableOpacity, ScrollView, Text } from 'react-native'
