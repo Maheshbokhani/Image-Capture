@@ -16,7 +16,7 @@
       
 * Make changes for App.js file
 
-![](https://raw.githubusercontent.com/Maheshbokhani/Image-Capture/master/App.js)
+         ![](https://raw.githubusercontent.com/Maheshbokhani/Image-Capture/master/App.js)
 
 
 
