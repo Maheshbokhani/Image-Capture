@@ -1,6 +1,6 @@
 # React-Native-Image-Capture
 
-![](https://raw.githubusercontent.com/Maheshbokhani/Image-Capture/master/App.js)
+![](https://aboutreact.com/wp-content/uploads/2018/07/react_native_camera-1.png)
 
 # Steps:
 
